@@ -1,0 +1,33 @@
+﻿country,yr,null_blank,exclusion
+Argentina,2015,3.32,
+Argentina,2019,2.51,
+Bolivia,2019,5,Irregular election. Repeated in 2019.
+Bolivia,2020,5.01,
+Brazil,2018,9.57,
+Brazil,2022,4.41,
+Chile,2017,1.07,
+Chile,2021,1.11,
+Colombia,2018,3.22,
+Colombia,2022,2.98,
+Costa Rica,2018,1.29,
+Costa Rica,2022,2.56,
+Dominican Republic,2016,2.06,
+Dominican Republic,2020,1.44,
+Ecuador,2017,6.96,
+Ecuador,2021,12.65,
+El Salvador,2019,1.14,
+Guatemala,2015,8.88,
+Guatemala,2019,13.14,
+Guatemala,2023,24.38,
+Honduras,2017,5.51,Unable to find reliable polling data.
+Honduras,2021,6.21,
+Mexico,2018,2.78,
+Nicaragua,2016,3.49,Irregular election
+Nicaragua,2021,5.53,Irregular election
+Panamá,2019,2.42,
+Paraguay,2018,5.18,
+Paraguay,2023,2.71,
+Peru,2016,18.12,
+Peru,2021,18.7,
+Uruguay,2019,3.63,
+Venezuela,2018,1.89,Irregular election
